@@ -8,12 +8,12 @@ title: Բլոգ
 <div class="subtitle">#խառըմտքեր</div>
 <div class="span-23">
 {% for post in site.posts limit:3 %}
-<div class="post"><div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="post"><div class="posttitle"><a href="/blog{{ post.url }}">{{ post.title }}</a></div>
 <div class="date">{{ post.date | date: "%A, %B %d, %Y" }}</div>
 {{ post.content }}
 </div>
 {% endfor %}
-<div class="subtitle"><a href="/blog.html">Բոլոր գրառումները</a></div>
+<div class="subtitle"><a href="/blog/blog.html">Բոլոր գրառումները</a></div>
 </div>
 
 
