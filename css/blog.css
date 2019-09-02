@@ -107,6 +107,7 @@ blockquote {
 	margin-top: 0em;
   margin-left: 1.5em;
   padding-left: 1em;
+	color: #666;
 }
 
 a:hover, a:focus {
