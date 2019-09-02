@@ -92,3 +92,6 @@ title: Իրական դպրոցի մասին
 Մեկ ուսանողի գումար ուղարկեցի: 
 
 Հ․Գ․ Տեսեք, թե [ինչպես է անցնում սեպտեմբերի մեկը Իրական դպրոցում](https://www.facebook.com/gor.vardanyan/videos/10212045638576678/?):
+
+| [![Իրական դպրոց](https://upload.wikimedia.org/wikipedia/hy/b/bd/%D4%BB%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D6%8A%D5%A4%D5%BA%D6%80%D5%B8%D6%81.jpg)](https://ggg.realschool.am/) |
+| ---- |
